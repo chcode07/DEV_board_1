@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-09-29T11:45:02Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.2278,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "final_V1 v11"
+        },
+        "Owner": "Channabasava H <channabasavah7@gmail.com>",
+        "Size": {
+            "X": 54.132753,
+            "Y": 45.390622
+        }
+    }
+}
